@@ -3,7 +3,7 @@
 
 I am a passionate learner a student of computer science engineering from a reputed university of Bangladesh. Programming is kind of passion for me. Envolving with new technologies is my hobby. I love to web development and I am currently working on it.My future goal is to engage with AI, deep learning ,Machine learning and keep myself updated with new exciting technologies......
 
-Skills: Node js/ REACT / JS / HTML / CSS/Express js/SAS
+Skills: Node js/ REACT / JS / HTML / CSS/Express js/SASS
 
 - 🔭 I’m currently working on Tyepscript with Node js  
 - 🌱 I’m currently learning Typescript,Python 
