@@ -1,6 +1,5 @@
 ### Hey there 👋, I am, Nabil Alshad
 #### I am a junior MERN stack developer
-![I am a junior MERN stack developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/271922819_2505920342873290_5515206749224468925_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHUocSBt8xx66SeyVTClZJyJVUCjZLUZaElVQKNktRloSvRctQck-Y5q1wKEyv_GgF2S1Pq6ZVyCioIBvJpQIWX&_nc_ohc=6Ka_lLHZnHIAX_sLKP0&_nc_ht=scontent.fdac31-1.fna&oh=00_AT87aUu017oCt7JvJYGZeWB-8Gs1Dd8yoryL7TjQBvkPKw&oe=61F6E795)
 
 I am a passionate learner a student of computer science engineering from a reputed university of Bangladesh. Programming is kind of passion for me. Envolving with new technologies is my hobby. I love to web development and I am currently working on it.My future goal is to engage with AI, deep learning ,Machine learning and keep myself updated with new exciting technologies......
 
