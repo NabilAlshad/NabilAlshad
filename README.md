@@ -1,5 +1,5 @@
 ### Hey there 👋, I am, Nabil Alshad
-#### I am a junior MERN stack developer
+#### A MERN stack developer
 
 I am a passionate learner and a student of computer science engineering from a reputed university of Bangladesh. Programming is kind of passion for me. Envolving with new technologies is my hobby. I love to build web Application with its latest technologies and  have an interest with mobile app development which I am currently working on it.My future goal is to engage with AI, deep learning ,Machine learning and keep myself updated with new exciting technologies......
 
